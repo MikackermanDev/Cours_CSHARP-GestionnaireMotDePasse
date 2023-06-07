@@ -14,4 +14,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MikaSafePass
-build_property.ProjectDir = d:\Mikackerman\Documents\.Developpement\GitHub\PERSO_CSHARP-GestionnaireMotDePasse\MikaSafePass\
+build_property.ProjectDir = d:\Mikackerman\.Dev\.GitHub\Cours_CSHARP-GestionnaireMotDePasse\MikaSafePass\
